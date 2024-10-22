@@ -31,7 +31,7 @@ Atualmente, estou cursando **Análise e Desenvolvimento de Sistemas** no IFTM ca
 
 <h1 style="text-align: center">🔗 Vamos nos conectar! 🤝</h1>
 
-- **[LinkedIn](https://www.linkedin.com/in/gustavocaixeta)**
+- **[LinkedIn](https://www.linkedin.com/in/gustavocaixetarosa)**
 - **[GitHub](https://github.com/gustavocaixetarosa)**
 - **[Email](mailto:gstvcaixeta@gmail.com)**
 
